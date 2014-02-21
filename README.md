@@ -1,0 +1,4 @@
+omega
+=====
+
+issues with omega
